@@ -3,7 +3,7 @@ Using this we can get reponse from it using "POST" method call.
 
 Steps to follow:
 download ollama.
-download the specific model you.
+download the specific model you want to use.
 
 using the backend and frontend package in here we can use any model,so change the model name in server.js and run the backend and frontend package.
 Do npm install in backend and frontend .
